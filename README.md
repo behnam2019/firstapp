@@ -1,4 +1,4 @@
-# Star Track
+# musicyab
 
 A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) and the [Spotify API](https://developer.spotify.com/web-api/).
 
